@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedanielyeh)](https://github.com/thedanielyeh/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedanielyeh&show_icons=true&theme=dark)](https://github.com/thedanielyeh/github-readme-stats)
 <!--
 **theDanielYeh/theDanielYeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
