@@ -6,7 +6,7 @@
 - 🌱 I’m currently improving: my knowledge depth on React, JavaScript, CSS3, HTML5, Node.js, Express
 - 🛠 I'm currently using: Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 
-###### 💬 About Me
+### 💬 About Me
 <!--
 **theDanielYeh/theDanielYeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
