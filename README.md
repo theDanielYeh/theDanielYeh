@@ -1,4 +1,5 @@
 ### Hello World! 👋
+---
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedanielyeh&show_icons=true&theme=dark)](https://github.com/thedanielyeh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedanielyeh&layout=compact&show_icons=true&theme=dark)](https://github.com/thedanielyeh/github-readme-stats)
 
@@ -7,6 +8,7 @@
 - 🛠 I'm currently using: Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 
 ### 💬 About Me
+---
 <!--
 **theDanielYeh/theDanielYeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
