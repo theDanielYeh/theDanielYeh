@@ -9,6 +9,15 @@
 
 ### 💬 About Me
 ---
+I'm Daniel, a healthcare professional turned software engineer. I know React, Node.js, JavaScript, CSS, HTML, and more. Life is filled with vast knowledge - by the time you're done reading this bio, infinitely more knowledge will have been discovered. That said, I strive to learn and improve a little each day.
+
+Lab Assistant --> Lab Associate --> Clinical Lab Scientist --> Software Engineer
+
+👆 Ask me about my story.
+
+### 📫 Let's connect!
+---
+<a href="https://www.linkedin.com/in/the-daniel-yeh/">LinkedIn</a>
 <!--
 **theDanielYeh/theDanielYeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
