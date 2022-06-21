@@ -1,4 +1,4 @@
-### Hello World! 👋
+## Hello World! 👋
 
 ---
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedanielyeh&show_icons=true&theme=dark)](https://github.com/thedanielyeh/github-readme-stats)
